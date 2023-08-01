@@ -1,4 +1,3 @@
-# Solver_sudoku
 Private Sub Command1_Click()
 Option1.Value = False
 Timer0.Interval = 1
